@@ -10,7 +10,7 @@ In this project which can automatically get the name of the color by double clic
 
 
 
-1.<img src="https://github.com/Jyothif/Color_detection_Using_Opencv/blob/main/1.PNG"> 
+<img src="https://github.com/Jyothif/Color_detection_Using_Opencv/blob/main/1.PNG"> 
 
 
-2.![](https://github.com/Jyothif/Color_detection_Using_Opencv/blob/main/2.PNG)
+<img src="https://github.com/Jyothif/Color_detection_Using_Opencv/blob/main/2.PNG">
